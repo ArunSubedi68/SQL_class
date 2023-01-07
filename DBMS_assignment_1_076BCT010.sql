@@ -133,7 +133,7 @@ insert into Tbl_manages(employee_name,manager_name)
 
 --Q3b
 
-up	date Tbl_works  set salary=salary*1.1 where company_name='First Bank Corporation';
+	update Tbl_works  set salary=salary*1.1 where company_name='First Bank Corporation';
 
 --q3c
 
